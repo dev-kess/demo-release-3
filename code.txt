@@ -1,1 +1,1 @@
-release-please bootstrap --token=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 --repo-url=dev-kess/demo-release-3 --release-type=node
+release-please bootstrap --token=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 --repo-url=dev-kess/demo-release-3 --release-type=node
