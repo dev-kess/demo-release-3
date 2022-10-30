@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.4.0](https://github.com/dev-kess/demo-release-3/compare/demo-release-3-v0.3.0...demo-release-3-v0.4.0) (2022-10-30)
+
+
+### Features
+
+* release ([06df671](https://github.com/dev-kess/demo-release-3/commit/06df671b1df9dd5f71ac61e13cf272b1224cd223))
+
 ## [0.3.0](https://github.com/dev-kess/demo-release-3/compare/demo-release-3-v0.2.1...demo-release-3-v0.3.0) (2022-10-30)
 
 
