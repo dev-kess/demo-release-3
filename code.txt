@@ -6,3 +6,4 @@ mas
 version
 fix
 ver
+release
